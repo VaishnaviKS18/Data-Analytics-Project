@@ -2,7 +2,6 @@
 
 This repository contains 9 real-world data analytics projects solved using Python and the Pandas library. Designed for beginners and aspiring Data Analysts, each project provides hands-on experience in analyzing, cleaning, manipulating, and visualizing datasets using powerful Python tools.
 
-## 🔍 What You'll Learn
 - Data cleaning, manipulation, and visualization with Pandas and Matplotlib
 - Practical application of Python for real-world data analysis
 - Foundational skills for Data Analyst roles
