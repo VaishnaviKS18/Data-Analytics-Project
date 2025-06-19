@@ -28,12 +28,6 @@ This repository contains 9 real-world data analytics projects solved using Pytho
 
 ## ✅ Prerequisites
 - Basic Python programming knowledge
-- Enthusiasm to learn Data Analytics!
-
-## 📦 Resources
-All source codes and datasets are included in the respective project folders. You are free to experiment, modify, and build upon them!
-
----
 
 
 
